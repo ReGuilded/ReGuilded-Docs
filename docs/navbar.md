@@ -3,7 +3,7 @@
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://docs.reguilded.dev/docs/files/NavbarSVGs/Translate.svg)
   - <a href="/"><img alt="UK Flag" src="https://flagicons.lipis.dev/flags/4x3/gb.svg" height="15px"> English</a>
-  - <a href="/lt_LT/"><img alt="LT Flag" src="https://flagicons.lipis.dev/flags/4x3/lt.svg" height="15px"> Lietuvių</a>
-  - <a href="/hu_HU/"><img alt="HU Flag" src="https://flagicons.lipis.dev/flags/4x3/hu.svg" height="15px"> Magyar</a>
-  - <a href="/fr_FR/"><img alt="FR Flag" src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="15px"> Français</a>
+  - <a href="#/lt_LT/"><img alt="LT Flag" src="https://flagicons.lipis.dev/flags/4x3/lt.svg" height="15px"> Lietuvių</a>
+  - <a href="#/hu_HU/"><img alt="HU Flag" src="https://flagicons.lipis.dev/flags/4x3/hu.svg" height="15px"> Magyar</a>
+  - <a href="#/fr_FR/"><img alt="FR Flag" src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="15px"> Français</a>
 - [![Guilded](https://docs.reguilded.dev/docs/files/NavbarSVGs/Guilded.svg)](https://guilded.gg/ReGuilded)
