@@ -1,0 +1,9 @@
+- **Naudotojo Vadovas**
+- [Įžanga](./)
+- **Nuorodos**
+- [„Guilded“](https://guilded.gg/ReGuilded)
+- [„GitHub“](https://github.com/ReGuilded/ReGuilded-Docs)
+- [Transliuoti](https://crowdin.com/project/reguilded-docs)
+- **Statistika**
+- ![„GitHub“ platformoje paskutinį kartą redaguota](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![„GitHub“ platformoje veikla](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
