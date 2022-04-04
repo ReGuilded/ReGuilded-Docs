@@ -4,4 +4,6 @@
 - ![Languages](https://docs.reguilded.dev/docs/files/NavbarSVGs/Translate.svg)
   - [English](/)
   - [Lithuanian](/lt_LT/)
+  - [Hungarian](/hu_HU/)
+  - [French](/fr_FR/)
 - [![Guilded](https://docs.reguilded.dev/docs/files/NavbarSVGs/Guilded.svg)](https://guilded.gg/ReGuilded)
