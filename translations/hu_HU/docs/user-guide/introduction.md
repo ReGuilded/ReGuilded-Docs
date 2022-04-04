@@ -1,5 +1,5 @@
-# ReGuilded Docs {docsify-ignore-all}
+# ReGuilded Dokumentumok {docsify-ignore-all}
 ---
-Learn how to use ReGuilded and create enhancements!
+Tanuld meg a ReGuilded használatát és azt, hogy miképp készíthetsz hozzá fejlesztéseket!
 
-<h1>Docs are coming soon.</h1>
+<h1>Dokumentumok hamarosan.</h1>
