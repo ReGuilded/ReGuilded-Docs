@@ -6,4 +6,4 @@
 - [Traduire](https://crowdin.com/project/reguilded-docs)
 - **Statistiques**
 - ![Dernière MàJ GitHub](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![Activité de commit GitHub](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- ![Activité de la plateforme GitHub](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
