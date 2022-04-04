@@ -1,9 +1,9 @@
-- **User Guide**
-- [Introduction](./)
-- **Links**
-- [Guilded](https://guilded.gg/ReGuilded)
-- [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
-- [Translate](https://crowdin.com/project/reguilded-docs)
-- **Statistics**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- **Naudotojo Vadovas**
+- [Įžanga](./)
+- **Nuorodos**
+- [„Guilded“](https://guilded.gg/ReGuilded)
+- [„GitHub“](https://github.com/ReGuilded/ReGuilded-Docs)
+- [Transliuoti](https://crowdin.com/project/reguilded-docs)
+- **Statistika**
+- ![„GitHub“ platformoje paskutinį kartą redaguota](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![„GitHub“ platformoje veikla](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
