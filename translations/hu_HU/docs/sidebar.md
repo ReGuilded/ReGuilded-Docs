@@ -1,9 +1,9 @@
-- **User Guide**
-- [Introduction](./)
-- **Links**
+- **Felhasználói Útmutató**
+- [Bemutatkozás](./)
+- **Linkek**
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
-- [Translate](https://crowdin.com/project/reguilded-docs)
-- **Statistics**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- [Fordítás](https://crowdin.com/project/reguilded-docs)
+- **Statisztikák**
+- ![GitHub utoljára frissítve](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![GitHub tevékenységi napló](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)

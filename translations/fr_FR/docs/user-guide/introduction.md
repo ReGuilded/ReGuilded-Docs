@@ -1,5 +1,5 @@
-# ReGuilded Docs {docsify-ignore-all}
+# Documents ReGuilded {docsify-ignore-all}
 ---
-Learn how to use ReGuilded and create enhancements!
+Apprenez à utiliser ReGuilded et à créer des améliorations !
 
-<h1>Docs are coming soon.</h1>
+<h1>Les documents seront bientôt disponibles.</h1>
