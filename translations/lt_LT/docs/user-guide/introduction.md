@@ -1,5 +1,5 @@
-# ReGuilded Docs {docsify-ignore-all}
+# „ReGuilded“ Dokumentai {docsify-ignore-all}
 ---
-Learn how to use ReGuilded and create enhancements!
+Išmokite kaip naudotis „ReGuilded“ ir sukurti „enhancements“!
 
-<h1>Docs are coming soon.</h1>
+<h1>Dokumentai tuojau ateina.</h1>
