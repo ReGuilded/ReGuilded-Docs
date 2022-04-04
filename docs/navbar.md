@@ -3,5 +3,5 @@
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://docs.reguilded.dev/docs/files/NavbarSVGs/Translate.svg)
   - [English](/)
-  - [Lithuanian](/lt_LT)
+  - [Lithuanian](/lt_LT/)
 - [![Guilded](https://docs.reguilded.dev/docs/files/NavbarSVGs/Guilded.svg)](https://guilded.gg/ReGuilded)
