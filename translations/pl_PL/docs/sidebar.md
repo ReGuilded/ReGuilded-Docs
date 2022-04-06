@@ -1,9 +1,9 @@
-- **User Guide**
-- [Introduction](./)
-- **Links**
+- **Podręcznik Użytkownika**
+- [Wprowadzenie do RG](./)
+- **Linki**
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
-- [Translate](https://crowdin.com/project/reguilded-docs)
-- **Statistics**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- [Nasz Crowdin](https://crowdin.com/project/reguilded-docs)
+- **Statystyki**
+- ![Ostatnio Zaktualizowano](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![Aktywność Projektu](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
