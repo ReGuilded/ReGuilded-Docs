@@ -6,4 +6,7 @@
   - <a href="#/lt_LT/"><img alt="LT Flag" src="https://flagicons.lipis.dev/flags/4x3/lt.svg" height="15px"> Lietuvių</a>
   - <a href="#/hu_HU/"><img alt="HU Flag" src="https://flagicons.lipis.dev/flags/4x3/hu.svg" height="15px"> Magyar</a>
   - <a href="#/fr_FR/"><img alt="FR Flag" src="https://flagicons.lipis.dev/flags/4x3/fr.svg" height="15px"> Français</a>
+  - <a href="#/vi_VN/"><img alt="VN Flag" src="https://flagicons.lipis.dev/flags/4x3/vn.svg" height="15px"> Tiếng Việt</a>
+  - <a href="#/pl_PL/"><img alt="PL Flag" src="https://flagicons.lipis.dev/flags/4x3/pl.svg" height="15px"> Polski</a>
+  - <a href="#/zh_CN/"><img alt="CN Flag" src="https://flagicons.lipis.dev/flags/4x3/cn.svg" height="15px"> 中文（简体）</a>
 - [![Guilded](https://docs.reguilded.dev/docs/files/NavbarSVGs/Guilded.svg)](https://guilded.gg/ReGuilded)
