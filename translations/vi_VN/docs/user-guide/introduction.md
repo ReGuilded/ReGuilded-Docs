@@ -1,5 +1,5 @@
-# ReGuilded Docs {docsify-ignore-all}
+# Tài liệu về ReGuilded {docsify-ignore-all}
 ---
-Learn how to use ReGuilded and create enhancements!
+Tìm hiểu cách sử dụng ReGuilded và tạo các cải tiến!
 
-<h1>Docs are coming soon.</h1>
+<h1>Sắp có tài liệu.</h1>

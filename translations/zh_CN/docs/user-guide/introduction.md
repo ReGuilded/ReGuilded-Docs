@@ -1,5 +1,5 @@
-# ReGuilded Docs {docsify-ignore-all}
+# ReGuilded文档 {docsify-ignore-all}
 ---
-Learn how to use ReGuilded and create enhancements!
+了解如何使用ReGuilded并创建增强功能！
 
-<h1>Docs are coming soon.</h1>
+<h1>文档即将推出</h1>

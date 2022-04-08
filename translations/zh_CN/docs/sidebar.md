@@ -1,9 +1,9 @@
-- **User Guide**
-- [Introduction](./)
-- **Links**
+- **用户指南**
+- [介绍](./)
+- **链接**
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
-- [Translate](https://crowdin.com/project/reguilded-docs)
-- **Statistics**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- [翻译](https://crowdin.com/project/reguilded-docs)
+- **统计**
+- ![GitHub最后更新](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![GitHub提交活动](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)

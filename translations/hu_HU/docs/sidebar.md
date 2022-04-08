@@ -1,5 +1,5 @@
 - **Felhasználói Útmutató**
-- [Bemutatkozás](./)
+- [Bevezetés](./)
 - **Linkek**
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
