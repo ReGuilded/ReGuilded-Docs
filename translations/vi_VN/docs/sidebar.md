@@ -1,9 +1,9 @@
-- **User Guide**
+- **Hướng dẫn**
 - [Lời nói đầu](./)
-- **Links**
+- **Liên kết**
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded/ReGuilded-Docs)
 - [Dịch](https://crowdin.com/project/reguilded-docs)
 - **Số Liệu Thống Kê**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![GitHub được cập nhật lần cuối](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
 - ![Hoạt động của GitHub](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
