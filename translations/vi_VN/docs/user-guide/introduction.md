@@ -1,4 +1,4 @@
-# ReGuilded Docs {docsify-ignore-all}
+# Tài liệu về ReGuilded {docsify-ignore-all}
 ---
 Learn how to use ReGuilded and create enhancements!
 
