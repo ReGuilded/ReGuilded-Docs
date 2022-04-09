@@ -1,10 +1,10 @@
 - **用户指南**
 - [介绍](./)
 - **链接**
-- [Website](https://reguilded.dev)
+- [网站](https://reguilded.dev)
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded)
-- [Translate](https://crowdin.com/project/reguilded)
-- **Statistics**
-- ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
+- [翻译](https://crowdin.com/project/reguilded)
+- **统计**
+- ![GitHub最后更新](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
+- ![GitHub提交活动](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
