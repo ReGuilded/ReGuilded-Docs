@@ -1,10 +1,10 @@
 - **User Guide**
-- [Introduction](./)
+- [Einleitung](./)
 - **Links**
-- [Website](https://reguilded.dev)
+- [Webseite](https://reguilded.dev)
 - [Guilded](https://guilded.gg/ReGuilded)
 - [GitHub](https://github.com/ReGuilded)
-- [Translate](https://crowdin.com/project/reguilded)
-- **Statistics**
+- [Übersetzen](https://crowdin.com/project/reguilded)
+- **Statistiken**
 - ![GitHub last updated](https://img.shields.io/github/last-commit/ReGuilded/ReGuilded-Docs?label=last%20updated)
 - ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ReGuilded/ReGuilded-Docs)
